@@ -2,8 +2,7 @@
 
 
 Clone the repo:
-     *  git clone https://github.com/kathiravan369/learningweb-.git
-
+     *  git clone https://github.com/kathiravan369/stationName
 Frontend Setup:
 
     *  Navigate to the frontend folder: cd my-app
