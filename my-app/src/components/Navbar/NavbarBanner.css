@@ -1,0 +1,9 @@
+.contentBox {
+    border: 1px solid;
+    border-image-source: linear-gradient(90deg, #F8F9FA 0%, #A0A7AF 49.5%, #F8F9FA 100%);
+    border-image-slice: 1;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 20px;
+    margin-top: 1%;
+  }

@@ -1,0 +1,34 @@
+.headingContent{
+    font-family: Nunito;
+font-weight: 600;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+text-transform: capitalize;
+color: rgba(17, 23, 39, 1);
+}
+
+.Content{
+font-family: Nunito;
+font-weight: 400;
+font-size: 12px;
+line-height: 100%;
+letter-spacing: 0%;
+text-transform: capitalize;
+color: rgba(94, 94, 94, 1);
+display: flex;
+}
+.Content1{
+    font-family: Nunito;
+font-weight: 400;
+font-size: 15px;
+line-height: 100%;
+letter-spacing: 0%;
+text-transform: capitalize;
+color: rgba(94, 94, 94, 1);
+display: flex;
+text-decoration: none;
+}
+.MuiTableCell-root {
+    border: 1px solid #D6E4E5; /* light border color */
+  }
